@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "774182752527",
+    "project_id": "simple-note-app-86624",
+    "storage_bucket": "simple-note-app-86624.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774182752527:android:2fa7cb3d27e93d2161ae7a",
+        "android_client_info": {
+          "package_name": "com.example.simplenoteapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774182752527-pkjdfkp1h6pjbguee43okn8u1i65qbdd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJxsd1fRejbQ-mGqbfoWssJfHAYg_KfWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "774182752527-pkjdfkp1h6pjbguee43okn8u1i65qbdd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
