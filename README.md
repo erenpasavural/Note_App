@@ -1,5 +1,14 @@
+![splash](https://user-images.githubusercontent.com/101592634/232334417-fb701332-27cc-496d-8be9-cad1b60908cd.png)
+![Login](https://user-images.githubusercontent.com/101592634/232334420-e34c0dc7-e149-4284-8dcf-0373fa828a8d.png)
+![Register](https://user-images.githubusercontent.com/101592634/232334424-a76dcec7-47ab-49ae-ac1a-1b5e41e6f953.png)
+![ForgotPassword](https://user-images.githubusercontent.com/101592634/232334429-9b8795e8-3536-44aa-afbd-fc49db8e906a.png)
+![NoteAdd](https://user-images.githubusercontent.com/101592634/232334442-8e9f909b-be76-458e-b167-c6a66fa779f8.png)
+![homepage](https://user-images.githubusercontent.com/101592634/232334435-c95d1d01-9c47-4a67-8e45-21836320a9d1.png)
+![Update](https://user-images.githubusercontent.com/101592634/232334456-e9119081-1ca1-4b9c-816a-4345184aa837.png)
+![Delete](https://user-images.githubusercontent.com/101592634/232334467-5ffac1ec-2596-408f-bc23-b4290aae952b.png)
+![Search](https://user-images.githubusercontent.com/101592634/232334475-55e52a76-7a1e-44e8-b0f1-4966744275a7.png)
 
-![Splash](https://user-images.githubusercontent.com/101592634/232333689-6c406997-c29e-4773-a1cd-16f72389cbb2.png) ![Login](https://user-images.githubusercontent.com/101592634/232333698-118fe85b-c5bf-4140-8e91-182af9b25efd.png) ![Register](https://user-images.githubusercontent.com/101592634/232333701-5ba88135-8435-4c5f-af8b-09c03389f4b5.png) ![ForgotPasswordPage](https://user-images.githubusercontent.com/101592634/232333801-93cffc5f-833e-4fc2-ac65-dd34209ae80d.png)
+
 
 
 
