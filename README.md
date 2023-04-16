@@ -1,5 +1,9 @@
 # Simple Note
  Not Uygulaması
-![Splash](https://user-images.githubusercontent.com/101592634/232333536-57ba1cb6-7ba2-4599-9214-27513322934a.png) ![Login](https://user-images.githubusercontent.com/101592634/232333579-edeb9572-b729-4aa6-980a-51428544c2f5.png) ![Register](https://user-images.githubusercontent.com/101592634/232333585-25662b5a-54ed-49c6-a012-c3b3223f9290.png)
+![Splash](https://user-images.githubusercontent.com/101592634/232333689-6c406997-c29e-4773-a1cd-16f72389cbb2.png) ![Login](https://user-images.githubusercontent.com/101592634/232333698-118fe85b-c5bf-4140-8e91-182af9b25efd.png) ![Register](https://user-images.githubusercontent.com/101592634/232333701-5ba88135-8435-4c5f-af8b-09c03389f4b5.png)
+
+
+
+
 
 
