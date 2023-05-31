@@ -1,4 +1,5 @@
-![Use](https://user-images.githubusercontent.com/101592634/232335228-f78841ff-df80-422f-9593-817a435daf7e.png)
+![use](https://github.com/erenpasavural/Note_App/assets/101592634/de37a820-03d3-4a66-a8ad-0c2655c1efec)
+
 
 ![splash](https://user-images.githubusercontent.com/101592634/232334417-fb701332-27cc-496d-8be9-cad1b60908cd.png)
 ![Login](https://user-images.githubusercontent.com/101592634/232334420-e34c0dc7-e149-4284-8dcf-0373fa828a8d.png)
